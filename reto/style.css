@@ -1,0 +1,9 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+   background-image: url(./img/photo-1495365200479-c4ed1d35e1aa.avif); 
+}
